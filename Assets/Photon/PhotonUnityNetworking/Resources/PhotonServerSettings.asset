@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: d05ea2e4-7d25-446f-9624-4fa631a22d27
+    AppIdFusion: 
+    AppIdChat: 69ef4d5e-d85a-4dd7-b6cd-9b0261b19b7a
+    AppIdVoice: 4f65ad3a-409f-4a89-808a-aaeb1e6e7634
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: eu
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - InitializeSelectedAvatarModel
+  - StartNetworkedGrabbing
+  - StopNetworkedGrabbing
+  - CalibrateAvatar_RPC
+  - DisableFinalIKLocomotion_RPC
+  - EnableFinalIKLocomotion_RPC
+  - EnableRenderingForAvatar_RPC
+  - InitializeAnimation
+  - RemotelyLoadUMAAvatarDNAData
+  - ChangePlayerPosition
+  - DeleteObjectRPC
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

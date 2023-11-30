@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 11c7b3cd7938c7b41bb5b0211277a472
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_panel_pot
+    second: {fileID: 2100000, guid: ac54cfda79af7b94c9018a8be764b194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: bb0dcdfaa7093a4468abdd352f69f53e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: f1ec295d85ce219469918e7d6b0abb7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: c4ef094e54d189e4eb1909f543e7074f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 02b120afa9661f64693fff069cad7aec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 8b9ba4368a9513f46b290e7fd87ce102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grams.003
+    second: {fileID: 2100000, guid: 3abf4458a62e4b2448849c6074b1131a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matteblack-interior.001
+    second: {fileID: 2100000, guid: 32bc9a5e591eeaa45adae4c457670f77, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: 38dbcfe0e0e88464eba55e740d0ec745, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_1.standard
+    second: {fileID: 2800000, guid: 2073171a61ef25846b4ba0a2e1151909, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_10.standard
+    second: {fileID: 2800000, guid: a0cacd919bbc7244283e240c488ce182, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_11.normal
+    second: {fileID: 2800000, guid: 4d2f40d3f104faf4f879e0d8b5c4654b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_12.normal
+    second: {fileID: 2800000, guid: 8547020a737bb6743ab746b236268357, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_2.normal
+    second: {fileID: 2800000, guid: 732533558a1adfa45b3a47a0f6b2fda1, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_3
+    second: {fileID: 2800000, guid: 2b65903e64630e94d9c0007b35d881a2, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_4.standard
+    second: {fileID: 2800000, guid: e69591cb5913e2949bf355a34ceb6768, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_5.normal
+    second: {fileID: 2800000, guid: fc6925f98c2bb13459c773e499369cbf, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_6
+    second: {fileID: 2800000, guid: 456be715a3670c3458b92f2475563fe7, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_7.standard
+    second: {fileID: 2800000, guid: cbcbbfc005a230e43a47fa8c656c7b2e, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_8
+    second: {fileID: 2800000, guid: c3ebe8e7419b57648aaf6801324ff4de, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_9
+    second: {fileID: 2800000, guid: c0bf85ce5a45e9c47b21fdbc6b7ffd5c, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

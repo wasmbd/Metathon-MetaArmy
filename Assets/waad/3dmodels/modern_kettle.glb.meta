@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: 31720cfb6da24d044994e7866854f25c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: ebd216460a260ab4b91cfd7e1b2ead91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display
+    second: {fileID: 2100000, guid: a9ee62440a4910844b9ba77309db92f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_and_Cover
+    second: {fileID: 2100000, guid: bf0ffa1115f4aa546a6e1dc173ce65b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kettle
+    second: {fileID: 2100000, guid: 5db5a009f35abeb4eb45f3d61cdca012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Contacts
+    second: {fileID: 2100000, guid: bb08c20805185a942894423e6894577f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber_Feet
+    second: {fileID: 2100000, guid: d5c87688b53f00a40bf0f9565152779b, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: c6c075cc1e6dc9b41a0becfccf58bb77, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

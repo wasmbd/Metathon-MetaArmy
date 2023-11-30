@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: b3049d4882a276f4dbae81c84962e9ed
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 56173444b936aa44c9bc2dd215d8f70e
+  - enabled: 0
+    path: Assets/Scenes/HomeScene.unity
+    guid: 59fe88bcec22b054ba717c2b27d030ab
+  - enabled: 1
+    path: Assets/Scenes/Metathon Building.unity
+    guid: b72244336204212439510723e69fa9f9
+  - enabled: 0
+    path: Assets/Scenes/World_Outdoor.unity
+    guid: 5041d70b592f91c4c8b6824c2ef6484f
+  - enabled: 0
+    path: Assets/Kit Games/Integrations/Final IK Integration_dst/Scenes/HomeScene_FinalIK.unity
+    guid: 22a3911b921eb464fbd15f131a9a45a6
+  - enabled: 1
+    path: Assets/Scenes/Metathon Avatar.unity
+    guid: 52c8aca526269404ebf252610b88b08b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6d759d5effe8b734abfc8bd78aa7cb2d, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c5239cca046c34aaaa9041ee640f86ed, type: 2}

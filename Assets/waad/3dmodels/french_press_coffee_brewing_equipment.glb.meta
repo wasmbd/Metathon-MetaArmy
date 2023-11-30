@@ -1,0 +1,67 @@
+fileFormatVersion: 2
+guid: 83ea03da5d027ed4b8e9d67b7a2daa74
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome_filter
+    second: {fileID: 2100000, guid: bd8c3151e6131344d9a9a6ffd2c1103b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome_shaft
+    second: {fileID: 2100000, guid: 9c60f9f24ade0a44e8274c2f68239ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_jug
+    second: {fileID: 2100000, guid: 30839ce237944bb4193a3363570edf06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jug_plastic
+    second: {fileID: 2100000, guid: a2e5326d62bf43747a0876adcece57c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_net_filter
+    second: {fileID: 2100000, guid: 296128f389f0e3a419e001f419445e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spring_torus_mat
+    second: {fileID: 2100000, guid: ec9fb0c515410b94eb9cb8e62cd99646, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: 2aef92a916ea6ce469e9087bd538103f, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_1.standard
+    second: {fileID: 2800000, guid: 42bda3df8040e5e499e37ff7ca2218bb, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_2
+    second: {fileID: 2800000, guid: 98b2bf4776a7e8242b123b22a907658c, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_3
+    second: {fileID: 2800000, guid: 02c6930732970224a98b192d541054e2, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_5
+    second: {fileID: 2800000, guid: 62bd560ee4cc7b64081ef877a33558ea, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

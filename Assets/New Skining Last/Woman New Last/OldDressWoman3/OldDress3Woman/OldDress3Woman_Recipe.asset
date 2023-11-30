@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0188188c253e0c4bb9b46e19fa7312e, type: 3}
+  m_Name: OldDress3Woman_Recipe
+  m_EditorClassIdentifier: 
+  label: 
+  resourcesOnly: 0
+  recipeType: Wardrobe
+  DisplayValue: OldDress3Woman_Slot
+  compatibleRaces:
+  - HumanFemaleDCS
+  wardrobeRecipeThumbs:
+  - race: HumanFemaleDCS
+    filename: 
+    thumb: {fileID: 0}
+  wardrobeSlot: Body
+  Hides: []
+  HideTags: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets:
+  - {fileID: 11400000, guid: 7666f5d068a38c4468a8ff549efe099b, type: 2}
+  - {fileID: 11400000, guid: 490c5f24dfbc577409b4d89030f2d1e1, type: 2}
+  - {fileID: 11400000, guid: 042d3d323a24d7043add17ed5393eb63, type: 2}
+  - {fileID: 11400000, guid: 55efdbf2ef93627418ac8bc09b906006, type: 2}
+  - {fileID: 11400000, guid: 4eb814d8e3f3c9a48a54e028e09c6141, type: 2}
+  - {fileID: 11400000, guid: 38000681da3b55f45a72b7bbbbe66ca1, type: 2}
+  - {fileID: 11400000, guid: f3621cf280adb95468552e1bbd0d8413, type: 2}
+  - {fileID: 11400000, guid: 84e335871cc08124eb7db57caa589462, type: 2}
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"OldDress3Woman","scale":100,"copyIdx":-1,"overlays":[{"id":"OldDress3Woman_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0},{"id":"OldDress3Woman_Overlay","colorIdx":1,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"-","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":0,"race":"","packedDna":[]}'
+  IncompatibleRecipes: []
+  UserField: 
+  replaces: Nothing

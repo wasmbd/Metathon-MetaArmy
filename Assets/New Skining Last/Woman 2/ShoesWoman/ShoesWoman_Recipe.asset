@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0188188c253e0c4bb9b46e19fa7312e, type: 3}
+  m_Name: ShoesWoman_Recipe
+  m_EditorClassIdentifier: 
+  label: 
+  resourcesOnly: 0
+  recipeType: Wardrobe
+  DisplayValue: ShoesWoman_Slot
+  compatibleRaces:
+  - HumanFemale
+  wardrobeRecipeThumbs:
+  - race: HumanFemale
+    filename: 
+    thumb: {fileID: 0}
+  wardrobeSlot: Feet
+  Hides: []
+  HideTags: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets:
+  - {fileID: 11400000, guid: 797d14ff626288a4ba5345109681114b, type: 2}
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"ShoesWoman","scale":100,"copyIdx":-1,"overlays":[{"id":"ShoesWoman_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0},{"id":"ShoesWoman_Overlay","colorIdx":1,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"-","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false},{"name":"","colors":[255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":0,"race":"","packedDna":[]}'
+  IncompatibleRecipes: []
+  UserField: 
+  replaces: Nothing

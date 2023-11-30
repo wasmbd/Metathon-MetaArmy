@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7eead3068d1e5824fa90d14f2853969b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granola_2_bake
+    second: {fileID: 2100000, guid: a8e7584e65482da4681fd9bcdb41a8a7, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: a81249152fc92fa429700f38828167ae, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_1.normal
+    second: {fileID: 2800000, guid: cc6234308c8f537439b5b4b7a79aebfe, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

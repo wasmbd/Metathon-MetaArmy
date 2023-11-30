@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2dee05da5b42d9a4aab7cb6786994ca0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ash_1
+    second: {fileID: 2100000, guid: f8ded5253ac1e35478431aed90d82afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Solid_Grey
+    second: {fileID: 2100000, guid: 94ed60832689e614699beb2f98f0ba09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 3f66ab300b350ea41b0599f2d0442658, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
